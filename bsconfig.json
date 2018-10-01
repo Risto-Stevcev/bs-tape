@@ -1,0 +1,23 @@
+{
+  "name": "bs-tape",
+  "version": "0.1.0",
+  "namespace": true,
+  "sources": [{
+    "dir" : "src"
+  }, {
+    "dir" : ".",
+    "type": "dev",
+    "files": ["Example.ml"]
+  }],
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": [
+  ],
+  "warnings": {
+    "error" : "+101"
+  },
+  "refmt": 3
+}
