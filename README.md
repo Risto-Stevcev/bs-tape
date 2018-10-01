@@ -2,12 +2,12 @@
 
 Bucklescript bindings for tape
 
-# Installation
+## Installation
 
 ```sh
 $ npm install --save-dev @ristostevcev/bs-tape 
 ```
 
-# Example
+## Example
 
 See [Example.ml](https://github.com/Risto-Stevcev/bs-tape/blob/master/Example.ml)
