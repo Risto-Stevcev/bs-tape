@@ -25,3 +25,5 @@ lib/bs
 .merlin
 .bsb.lock
 node_modules
+src/*.bs.js
+Example.bs.js
